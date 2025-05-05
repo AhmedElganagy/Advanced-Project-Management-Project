@@ -16,6 +16,13 @@ This is a simple HTML/CSS project created as part of the Advanced Project Manage
 - Applied stash and undo commands to manage code versions.
 - Collaborated through GitHub by pushing the local repo to a remote.
 
+## 👥 Team Members
+
+- **Ahmed Mohamed Elganagy**   
+- **Fares Ahmed Shalaby**   
+- **Mohamed Ayman Makram**
+- **Mohamed Naser Zaghlola**
+
 ## 🔧 How to Run the Project
 
 1. Clone the repo:
